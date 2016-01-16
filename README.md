@@ -6,7 +6,7 @@ This project provides a bare-bones boilerplate for creating React.js web applica
 
 ## Running the Demo page
 
-1. Fork the project, then install dependencies: `npm install`
+1. Fork the project, then install dependencies (if necessary): `npm install`
 2. Run the start script to compile the JSX to JS: `npm start`
 3. Load the `public/index.html` file in your favorite browser for a (personally biased) message.
 
