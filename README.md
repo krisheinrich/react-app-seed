@@ -12,8 +12,8 @@ This project provides a bare-bones boilerplate for creating React.js web applica
 
 ## Included Node packages
 
-* babelify
-* babel-preset-react
-* react
-* react-dom
-* watchify
+* babelify - Babel for browserify. Adds browser support to ES2015 via JS syntax transformations.
+* babel-preset-react - Babel support for React JSX.
+* react - React. JS library for building UIs.
+* react-dom - React package for working with the DOM.
+* watchify - Recompiles browserify bundle upon source file update.
