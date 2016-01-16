@@ -1,1 +1,1 @@
-# react-express-app-seed
+# react-app-seed
